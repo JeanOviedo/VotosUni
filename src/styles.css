@@ -1,0 +1,33 @@
+body {
+  color: #000;
+  background: #ffffff; /* fallback for old browsers */
+ /* Chrome 10-25, Safari 5.1-6 */
+ 
+}
+
+.main img {
+  margin-right: 2rem;
+}
+h1 {
+  text-align: center;
+}
+i,
+a {
+  color: #1e1f1f;
+  font-size: 20px;
+}
+.club {
+  color: #000;
+}
+i:hover,
+a:hover {
+  outline: none;
+  color: #000;
+}
+p {
+  font-size: 20px;
+}
+
+.main {
+  font-size: 20px;
+}
